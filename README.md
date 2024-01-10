@@ -15,8 +15,6 @@ Let's connect and explore how I can contribute my expertise to your next project
 - 😄 Pronouns: he/him
 
 #### 🔗 Helpful links:
-- [My LinkedIn page](https://www.linkedin.com/in/galchenko-max/)
+- [My LinkedIn page, all certificates and experience](https://www.linkedin.com/in/galchenko-max/)
 - [My Portfolio](https://portfolio-green-six-29.vercel.app/mrkter)
-- [My Certificates](https://www.linkedin.com/in/galchenko-max/details/certifications/)
 - [My Upwork](https://www.upwork.com/freelancers/~0178b4cde2adb63163)
-

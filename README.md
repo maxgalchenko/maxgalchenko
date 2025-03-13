@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-As a dedicated Front-end developer with a career spanning since 2016, I've contributed to a diverse array of innovative applications. My portfolio boasts a spectrum of projects, including document process automation services, FinOps solutions, web development studios, cross-listing software, photo stock platforms, hiring platforms, graphic design tools, e-commerce solutions, and more.
+I’m a senior front-end developer specializing in React with a solid HTML, CSS, and JavaScript foundation. I have a strong track record in meeting deadlines and frequently lead teams, focusing on planning, schedules, and project delivery. Lately, I’ve been transitioning into managerial roles, driven by my interest in team and project management.
 
-My commitment to excellence has been recognized on Upwork, where I'm honored to rank among the top 3% of performers, earning the prestigious "Top Rated Plus" badge. Maintaining a flawless 100% success rate across all contracts, I prioritize delivering exceptional quality and service to my clients.
+I believe in continuous integration to align teams, enable consistent changes, and bridge the gap between stakeholders and engineers. Clear documentation is essential for smooth collaboration.
 
-I thrive on leveraging cutting-edge technologies and industry best practices to craft intuitive, user-centric experiences. Whether it's building scalable web applications or pioneering solutions that streamline operations, my passion lies in delivering robust, high-performance solutions that exceed expectations.
+I freelanced on Upwork early in my career, earning a “Top Rated” badge with 100% client satisfaction. This expanded my skills in databases, backend frameworks, and DevOps while providing direct communication with users and founders, strengthening my understanding of aligning technical solutions with business goals.
 
-Let's connect and explore how I can contribute my expertise to your next project or initiative.
+I enjoy optimizing processes and solving complex problems with simple solutions.
 
-- 🔭 I’m currently working in Conexiom
+- 🔭 I’m currently working in [Keela](https://www.keela.co/)
 - 📫 How to reach me:
   - 📧 galchenko.maksym@gmail.com
   - 📞 (778) 955-3588 Canada.
@@ -16,5 +16,5 @@ Let's connect and explore how I can contribute my expertise to your next project
 
 #### 🔗 Helpful links:
 - [My LinkedIn page, all certificates and experience](https://www.linkedin.com/in/galchenko-max/)
-- [My Portfolio](https://portfolio-green-six-29.vercel.app/mrkter)
+- [My Portfolio](https://portfolio-green-six-29.vercel.app)
 - [My Upwork](https://www.upwork.com/freelancers/~0178b4cde2adb63163)

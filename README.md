@@ -117,12 +117,6 @@ Leading critical frontend initiatives following the Aplos-Keela-Raisely merger t
 - Data Visualization (freeCodeCamp)
 - APIs and Microservices (freeCodeCamp)
 
-## 🌱 Currently Exploring
-
-- Advanced React 18 patterns (Server Components, Suspense, Concurrent Rendering)
-- Micro-frontend orchestration and module federation strategies
-- Design system best practices for enterprise-scale applications
-
 ## 📊 GitHub Stats
 
 ![Maksym's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxgalchenko&show_icons=true&theme=default)

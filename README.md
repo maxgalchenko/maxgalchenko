@@ -1,102 +1,99 @@
 # Hi, I'm Maksym Galchenko 👋
 
-**Senior Front-End Engineer | React & TypeScript Specialist | Enterprise Architecture Leader**
+### Staff-level React & TypeScript Engineer | Frontend Architecture | DX & Performance
 
-Self-taught Senior Front-End Engineer with 8+ years of experience specializing in React and TypeScript for enterprise-scale applications. Proven track record of leading micro-frontend architectures, building unified design systems, and driving technical excellence in post-merger integrations.
+Senior/Staff React engineer with 8+ years building and leading enterprise-scale frontends. I specialize in React, Next.js, TypeScript, and design-system-driven development, with a track record of shipping micro-frontend platforms, unified component libraries, and high-performance web experiences.
 
-**🏆 Top 3% on Upwork | Enterprise-Scale Projects | Team Leadership & Mentoring**
+### 🏆 Top 3% on Upwork | Enterprise-Scale Deliveries | Architecture & Mentorship
 
-## 🎯 What I Bring to Enterprise Teams
+## 🎯 How I Create Impact
 
-**Architecture & Scalability**
+### Architecture & Scale
 
-- Design and implement micro-frontend systems for complex, multi-product platforms
-- Build unified design systems and component libraries used across multiple teams
-- Lead post-merger technical integration, consolidating legacy products into modern stacks
+- Design micro-frontend platforms for multi-product organizations and M&A consolidation
+- Build unified design systems and component libraries adopted across teams and products
+- Define front-end standards, RFCs, and guardrails that keep large codebases healthy
 
-**Technical Excellence**
+### Performance & Quality
 
-- Deep expertise in React 18+ (Server Components, Suspense, concurrent features)
-- Performance optimization achieving 95+ Lighthouse scores and Core Web Vitals compliance
-- Test-Driven Development with comprehensive unit, integration, and visual testing strategies
+- Drive Core Web Vitals and performance budgets; ship 90–95+ Lighthouse experiences
+- Champion TDD with robust unit, integration, and visual testing strategies
+- Reduce release risk with CI/CD, preview environments, and fast feedback loops
 
-**Leadership & Collaboration**
+### Leadership & Collaboration
 
-- Mentor engineering teams on modern React patterns and best practices
-- Establish CI/CD pipelines and development workflows for efficient deployment
-- Drive cross-functional collaboration between design, product, and engineering
+- Mentor engineers on modern React patterns and accessibility-first development
+- Lead cross-functional work with design and product; clarify scope and sequence delivery
+- Uplevel teams via code reviews, architecture docs, and knowledge-sharing
 
-## 💼 Current Role: Leading Frontend Architecture
+## 💼 Current Role — Leading Frontend Architecture
 
-**Senior Front-End Engineer @ Keela** _(May 2024 - Present)_
+### Senior Front-End Engineer @ Keela (May 2024 – Present)
 
-Leading critical frontend initiatives following the Aplos-Keela-Raisely merger to build the first fully integrated nonprofit cloud platform:
+Post-merger (Aplos + Keela + Raisely), I focus on the foundation for an integrated nonprofit cloud platform:
 
-- **Design System Integration:** Architecting Velora UI, a unified component library serving multiple products post-merger
-- **Micro-Frontend Architecture:** Modernizing legacy applications with scalable MFE patterns for improved deployment velocity
-- **Technical Leadership:** Establishing TDD practices, documentation standards, and mentoring team on React 18 features
+- **Velora UI (Design System):** Architecting a unified component library used across multiple products
+- **Micro-Frontend Strategy:** Modernizing legacy surfaces with scalable, independently deployable MFEs
+- **Developer Experience:** Establishing TDD, docs, Storybook standards, and React 18 best practices
 - **Stack:** React 18, TypeScript, Vite, Vitest, Radix UI, Tailwind CSS, GraphQL, Storybook, CircleCI
 
 ## 🛠️ Technical Expertise
 
-**Frontend Specialization**
+### Frontend
 
-- **Core:** React, TypeScript, Next.js, JavaScript (ES6+)
-- **State Management:** Redux, Context API, React Query
-- **Styling:** Tailwind CSS, Styled Components, CSS Modules, SASS
-- **Testing:** Vitest, Jest, React Testing Library, Storybook, TDD
+- React, TypeScript, Next.js, JavaScript (ES6+)
+- State: Redux, Context API, React Query
+- Styling: Tailwind CSS, Styled Components, CSS Modules, SASS
+- Testing: Vitest, Jest, React Testing Library, Storybook, TDD
 
-**Architecture & Performance**
+### Architecture & Performance
 
 - Micro-Frontends & Module Federation
 - Design Systems & Component Libraries
-- Web Performance Optimization (Core Web Vitals, Lighthouse)
-- Progressive Web Applications (PWAs)
-- Server-Side Rendering & Static Site Generation
+- Core Web Vitals, Lighthouse, performance budgets
+- SSR/SSG, PWAs
 
-**DevOps & Tools**
+### Platform & DevEx
 
 - CI/CD: CircleCI, GitHub Actions, JFrog
-- Version Control: Git, GitHub, Bitbucket
 - APIs: REST, GraphQL, WebSockets
 - Cloud: AWS (Lambda, S3, CloudFront), Vercel
 
-**Quality & Accessibility**
+### Accessibility & Delivery
 
-- WCAG 2.1 Compliance
-- Cross-browser Compatibility
-- Responsive & Mobile-First Design
-- Code Review & Technical Documentation
+- WCAG 2.1 compliance and semantic HTML
+- Responsive, cross-browser, mobile-first
+- Documentation and change management at scale
 
 ### Focus Areas
-- **Frontend Architecture:** Micro-frontends, scalable component libraries
-- **Performance:** Web optimization, Core Web Vitals, Lighthouse scoring
-- **Accessibility:** WCAG compliance and inclusive design
-- **Team Leadership:** Code reviews, mentoring, establishing best practices
 
-## 🏆 Key Career Achievements
+- **Architecture:** Micro-frontends, scalable component libraries, enterprise standards
+- **Performance:** Core Web Vitals, Lighthouse, runtime and bundle optimization
+- **Accessibility:** Inclusive design, semantic patterns, automated checks
+- **Leadership:** Mentoring, code review quality bars, team enablement
 
-**Enterprise Micro-Frontend Architecture** *(Conexiom, 2023-2024)*
+## 🏆 Selected Impact
 
-- Designed and implemented modern micro-frontend architecture improving deployment frequency by 40%
-- Authored reusable UI component library from scratch with comprehensive Storybook documentation
-- Established TDD practices that accelerated development cycles across multiple teams
+#### Micro-Frontend Platform (Conexiom, 2023–2024)
 
-**Advanced Financial Platform** *(Mrkter, 2022-2023)*
+- Increased deployment frequency by ~40% by introducing a modern MFE architecture
+- Built a reusable UI library with comprehensive Storybook; scaled adoption across teams
+- Established TDD practices that accelerated safe, parallel delivery
 
-- Led end-to-end development of online banking platform with complex financial analytics
-- Built secure TypeScript proxy server on AWS Lambda for enhanced data security
-- Implemented automated CI/CD pipeline reducing deployment time by 60%
+#### Financial Platform (Mrkter, 2022–2023)
 
-**Top 3% Upwork Performer** *(2020-2022)*
+- Led development of online banking surfaces with complex analytics
+- Built a secure TypeScript proxy on AWS Lambda for data protection
+- Reduced deployment time by ~60% via automated CI/CD
 
-- Maintained 100% success rate across all contracts
-- Delivered 20+ enterprise e-commerce and SaaS projects
-- Achieved consistent 90+ Lighthouse scores with full accessibility compliance
-  
+#### Top 3% Upwork (2020–2022)
+
+- 100% success rate across contracts with 20+ e‑commerce and SaaS deliveries
+- Consistently shipped 90+ Lighthouse, accessibility-compliant experiences
+
 ## 🎓 Continuous Learning & Certifications
 
-**React & Frontend Architecture (2024-2025)**
+### React & Frontend Architecture (2024–2025)
 
 - React Performance Optimization (Frontend Masters, 2025)
 - Complete Intro to React v9 (Frontend Masters, 2025)
@@ -104,13 +101,13 @@ Leading critical frontend initiatives following the Aplos-Keela-Raisely merger t
 - React: Software Architecture (LinkedIn Learning, 2024)
 - A Tour of Web Capabilities (Frontend Masters, 2025)
 
-**Expanding Technical Horizons**
+### Expanding Technical Horizons
 
 - Python for Finance: Investment Fundamentals & Data Analytics (Packt, 2025)
 - Python Programming Fundamentals (Microsoft, 2025)
-- Microsoft Python Development Professional Certificate *(In Progress)*
+- Microsoft Python Development Professional Certificate _(In Progress)_
 
-**Foundation Certifications**
+### Foundation Certifications
 
 - JavaScript Algorithms and Data Structures (freeCodeCamp)
 - Front End Libraries (freeCodeCamp)
@@ -133,4 +130,6 @@ Leading critical frontend initiatives following the Aplos-Keela-Raisely merger t
 
 ---
 
-*Open to senior frontend engineering opportunities at innovative enterprises building the future of web applications.*
+<!-- markdownlint-disable-next-line MD036 -->
+
+_Open to senior and staff frontend roles focused on modern React architecture, performance, and developer experience._
